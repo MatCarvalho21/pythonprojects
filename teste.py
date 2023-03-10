@@ -9,6 +9,6 @@ y2 = y^(1/2)
 if y2>0:
     x1 = round(((-b + y2)/2*a), 2)
     x2 = round(((-b - y2)/2*a), 2)
-    print("As suas raízes são:", y, y2)
+    print(f"As suas raízes são: {x1:,.2f} e {x2:,.2f}")
 else: 
     print("A sua equação não possui raízes reais.")
