@@ -27,4 +27,4 @@ while(tentativas > 0):
                 print("Finalmente, até uma porta teria acertado...")
             else:
                 print("O número certo era:", resultado)
-print("Porém você não teve capacidade para descobrir. Sugiro que volte para a escola.")
+                print("Porém você não teve capacidade para descobrir. Sugiro que volte para a escola.")
