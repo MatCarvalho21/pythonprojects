@@ -4,6 +4,6 @@ a1 = str(input("Digite o nome do primeiro aluno. "))
 a2 = str(input("Do segundo. "))
 a3 = str(input("Do terceiro. "))
 a4 = str(input("Aogra, do último. "))
-s = (a1, a2, a3, a4)
+s = [a1, a2, a3, a4]
 r = random.choices(s)
 print("O nome do aluno sorteado é {}. ".format(r))
