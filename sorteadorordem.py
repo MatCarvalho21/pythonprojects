@@ -5,6 +5,5 @@ a2 = input("Digite o nome do segundo. ")
 a3 = input("Do terceiro. ")
 a4 = input("Do quarto agora. ")
 lista = [a1, a2, a3, a4]
-lista2 = random.shuffle(lista)
-print(lista2)
-print("A ordem escolhida foi: {}.".format(lista2))
+random.shuffle(lista)
+print("A ordem escolhida foi: {}.".format(lista))
