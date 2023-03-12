@@ -1,6 +1,8 @@
 ########## TRIGONOMETRIA ##########
 import math
-a = float(input("Coloque o valor do seu ângulo em graus. "))
+r = float(input("Coloque o valor do seu ângulo em graus. "))
+f = (math.pi/2)/90
+a = r*f
 t = math.tan(a)
 s = math.sin(a)
 c = math.cos(a)
