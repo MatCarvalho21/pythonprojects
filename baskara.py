@@ -1,4 +1,4 @@
-########## RESOLUÇÃO DE EQ. DO SEGUNDO GRAU ########## 
+########## RESOLUÇÃO DE EQUAÇÃO DO SEGUNDO GRAU ########## 
 print("Vamos começar!! Informe os coeficientes da sua equação. Caso não forem números inteiros, coloque um ponto para iniciar as casas decimais.")
 a = input("Qual o seu coeficiente a? ")
 b = input("Qual o seu segundo coeficiente? O b. ")
