@@ -1,4 +1,4 @@
-#################### SIMULADOR DE INVESTIMENTOS ####################
+#################### SIMULADOR DE INVESTIMENTOS (Inglês) ####################
 import math
 print("Welcome! You are in the investments simulator. Here we gonna work if simple fees. You will tell to us what is your initial investment \n and the monthly interest rate. ")
 name = input("First of all, what is you name? ")
