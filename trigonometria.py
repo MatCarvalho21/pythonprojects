@@ -7,6 +7,6 @@ t = math.tan(a)
 s = math.sin(a)
 c = math.cos(a)
 if (t <= 10000):
-    print(f"O valor do seno do ângulo {0} é {s:,.2f}, do cosseno é {c:,.2f} e da tangente é {t:,.2f}. ".format(a))
+    print(f"O valor do seno do ângulo {r:,.3f} é {s:,.2f}, do cosseno é {c:,.2f} e da tangente é {t:,.2f}. ")
 else:
-    print(f"O valor do seno do ângulo {0} é {s:,.2f}, do cosseno é {c:,.2f} e da tangente é muito próxima do infinito. ".format(a))
+    print(f"O valor do seno do ângulo {r:,.3f} é {s:,.2f}, do cosseno é {c:,.2f} e da tangente é muito próxima do infinito. ")
