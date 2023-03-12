@@ -17,3 +17,5 @@
 "git merge nome.branch" - vai trazer todas as alterações feitas no branch para o ramo main
 "git status" - vai mostrar os aquivos do repositório e a situação deles 
 "git log" - mostra os ultimos commits feitos 
+"git mv nome.antigo nome.pasta" - comando para mudar um arquivo para um diretório novo já criado.
+"touch nome.diretório'barra literalmente'.gitkeep" - comando para criar uma pasta, onde tá "barra literalmente" é pra colocar barra, é necessário commitar e tudo mais depois. 
